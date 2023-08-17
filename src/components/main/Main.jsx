@@ -21,7 +21,7 @@ const Main = () => {
       }
     }
     getData()
-  }, [])
+  }, [selectedCategory])
 
 
   return (
