@@ -9,3 +9,4 @@ export {default as Category} from "./category/Category";
 export {default as Video} from "./video/Video";
 export {default as VideoCard} from "./video-card/VideoCard";
 export {default as ChannelCard} from "./channel-card/ChannelCard";
+export {default as Loader} from "./loader/Loader";
